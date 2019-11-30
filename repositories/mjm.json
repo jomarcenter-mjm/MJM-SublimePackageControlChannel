@@ -4,8 +4,8 @@
 		{
 		"name": "RPGMaker MV Add-On Snippets",
 		"details": "https://github.com/jomarcenter-mjm/RMMVSublimeSnippet",
-		"labels": ["snippets", "RPGMaker MV", "Javascript", "RPG Maker", "RPGMaker"],
-		"author": "jomarcenter-mjm/MJM Creative Works and Ideas",
+		"labels": ["snippets", "RPGMaker MV", "Javascript", "RPG Maker", "RPGMaker","auto-complete"],
+		"author": "jomarcenter-mjm,MJM Creative Works and Ideas",
 		"releases": [
 				{
 				"sublime_text": "*",
